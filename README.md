@@ -3,19 +3,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2022%20mins-blue)
 
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   191 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-Tuesday                  96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-Wednesday                140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Thursday                 361 commits         ████████░░░░░░░░░░░░░░░░░   33.86 % 
-Friday                   186 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Saturday                 61 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-Sunday                   31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -45,10 +32,6 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/DrDiam/DrDiam/main/assets/bar_graph.png)
-
-
- Last Updated on 17/02/2025 18:01:55 UTC
+ Last Updated on 17/02/2025 18:04:40 UTC
 <!--END_SECTION:waka-->

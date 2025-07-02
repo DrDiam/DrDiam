@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-198%20hrs%2039%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -29,5 +27,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2025 01:19:44 UTC
+ Last Updated on 02/07/2025 01:12:08 UTC
 <!--END_SECTION:waka-->

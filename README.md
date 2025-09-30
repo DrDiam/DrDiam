@@ -1,19 +1,19 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-201%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-201%20hrs%2012%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -29,5 +29,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2025 01:06:12 UTC
+ Last Updated on 30/09/2025 01:05:34 UTC
 <!--END_SECTION:waka-->

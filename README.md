@@ -7,14 +7,13 @@
 
 ```text
 💬 Programming Languages: 
-HTML                     1 min               ███████████████████░░░░░░   76.61 % 
-Python                   0 secs              ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -30,5 +29,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/03/2026 01:41:46 UTC
+ Last Updated on 06/03/2026 01:43:50 UTC
 <!--END_SECTION:waka-->

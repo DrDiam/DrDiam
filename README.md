@@ -7,15 +7,13 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               18 mins             █████████████████████████   99.62 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -31,5 +29,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/04/2026 02:02:19 UTC
+ Last Updated on 02/04/2026 01:50:16 UTC
 <!--END_SECTION:waka-->
